@@ -1,3 +1,7 @@
 this is file1 content
 modified
+<<<<<<< HEAD
 sujith
+=======
+ranjith
+>>>>>>> cc12c88 (file.txt)
